@@ -3,7 +3,6 @@
 [![License BSD-3](https://img.shields.io/pypi/l/Electrodynamics_from_scratch.svg?color=green)](https://github.com/Kapoorlabs-paris/Electrodynamics_from_scratch/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/Electrodynamics_from_scratch.svg?color=green)](https://pypi.org/project/Electrodynamics_from_scratch)
 [![Python Version](https://img.shields.io/pypi/pyversions/Electrodynamics_from_scratch.svg?color=green)](https://python.org)
-[![tests](https://github.com/Kapoorlabs-paris/Electrodynamics_from_scratch/workflows/tests/badge.svg)](https://github.com/Kapoorlabs-paris/Electrodynamics_from_scratch/actions)
 [![codecov](https://codecov.io/gh/Kapoorlabs-paris/Electrodynamics_from_scratch/branch/main/graph/badge.svg)](https://codecov.io/gh/Kapoorlabs-paris/Electrodynamics_from_scratch)
 
 
